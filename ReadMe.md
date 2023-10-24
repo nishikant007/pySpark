@@ -11,3 +11,6 @@ This will open a master node and you can also open master Console ui
 ```spark-class org.apache.spark.deploy.worker.Worker spark://nishi-ubuntu:7077```
 
 This will open a worker node, you can start multiple worker node across different session
+
+### Catalyst Optimiser
+![Alt text](pySpark/config/CatalystOptimiserFlow.png "a title")
